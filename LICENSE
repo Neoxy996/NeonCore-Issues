@@ -1,0 +1,15 @@
+NeonCore License Agreement
+Copyright (c) 2026 Neoxy996. All rights reserved.
+
+1. End-User Usage: Permission is granted to use the NeonCore NeoForge JAR for personal or server-side gameplay.
+
+2. Developer Usage (Common API): Developers are permitted to use the common JAR only as a dependency to build mods.
+
+3. Prohibitions: You are STRICTLY PROHIBITED from:
+   - Decompiling or reverse engineering the neoforge JAR.
+   - Stealing or cloning the "4-pass mapping" or "Reflection Bridge" logic.
+   - Redistributing these files on other platforms without permission.
+
+4. Illegal Use: Using this mod for any malicious or illegal activities is forbidden.
+
+5. Ownership: All core logic and architectural designs are the property of Neoxy996.
